@@ -1,6 +1,9 @@
 # RedScan
 
-- 作者：乔红 Gregteng
+- 作者：乔红
+- 作者：Gregteng
+
+
 - QQ：1366951595
 - 邮箱：redknot@126.com
 
