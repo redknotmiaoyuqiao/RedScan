@@ -1,11 +1,8 @@
 # RedScan
 
-- 作者：乔红
+- 作者：乔红 Gregteng
 - QQ：1366951595
 - 邮箱：redknot@126.com
-
-
-- 作者：Gregteng
 
 
 这是一个 Unity 的 Shader 项目，因为看到有人想要边缘检测的扫描效果，又不太会写 Shader ，网上现有的又不是十分理想，所以这里写一个小的 Shader 特效库，开源出来。
